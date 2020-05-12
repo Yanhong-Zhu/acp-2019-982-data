@@ -1,0 +1,5 @@
+Acronym	Acronym description
+C2w	Cluster 2 with cloud interaction
+C2wo	Cluster 2 without cloud interaction
+C4w	Cluster 4 with cloud interaction
+C4wo	Cluster 4 without cloud interaction

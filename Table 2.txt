@@ -1,0 +1,6 @@
+Oxidant	day-cloud(C2w)	night-cloud(C2w)	day-particle(C2w)	night-particle(C2w)	day-particle(C2wo)	night-particle(C2wo)
+OH	9.60E-14	6.10E-15	1.80E-14	3.00E-15	3.00E-14	8.90E-15
+HO2	2.10E-09	6.20E-10	3.50E-09	1.60E-09	3.00E-09	1.30E-09
+NO3	1.00E-13	5.00E-13	8.80E-14	5.60E-13	9.40E-14	6.90E-13
+H2O2	7.60E-06	1.00E-05	7.70E-05	6.10E-05	2.40E-04	2.20E-04
+O3	1.10E-09	1.00E-09	8.70E-10	8.50E-10	1.00E-09	1.00E-09
